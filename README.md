@@ -27,7 +27,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanee718&show_icons=true&theme=merko)
   <br/>
-  <a href="https://github.com/seohee0925/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanee718&layout=compact&theme=merko&hide_border=true" /></a>
+  <a href="https://github.com/chanee718/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanee718&layout=compact&theme=merko&hide_border=true" /></a>
 </div>
 
 ---
