@@ -1,5 +1,5 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=FA8258&height=300&section=header&text=Welcome&fontColor=FFFFFF&fontSize=70&fontAlignY=45&desc=Hi,%20I'm%20Seung%20Chan&descAlign=57.5&descAlignY=56)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FA8258&height=300&section=header&text=Welcome&fontColor=FFFFFF&fontSize=70&fontAlignY=45&desc=Hi,%20I'm%20Seung%20Chan&descAlign=57.5&descAlignY=56" />
   
   ## ⚒️ Stack ⚒️
   ### 💡 I used at least once 
